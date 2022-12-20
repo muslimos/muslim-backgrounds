@@ -1,0 +1,12 @@
+Source: muslim-backgrounds
+Maintainer: mobilturka <03teknoloji@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 1.0
+Section: utils
+
+Package: muslim-backgrounds
+Priority: extra  
+Architecture: all
+Depends:
+Description: muslim-backgrounds
+ Wallpapers and sound files for Muslim Linux
